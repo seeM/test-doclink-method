@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test-doclink-method",
+    "section": "",
+    "text": "MyClass and MyClass.method."
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nMyClass\n\n MyClass ()\n\nInitialize self. See help(type(self)) for accurate signature.\nMyClass has MyClass.method."
+  }
+]
